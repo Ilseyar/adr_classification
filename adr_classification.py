@@ -27,7 +27,7 @@ brown_clusters_file = "Path to brown clusters file"
 umls_semantic_types_files = "input/umls_concept_id"
 w2v_model_file = "Path to word2vec model file"
 W2V_FEATURES_NUM = 200
-costart_dict_file = "input/costart_adverse_effects_processed.txt"
+costart_dict_file = "Path to COSTART lexicon"
 positive_emoticons_file = "input/emoticons/positive_emoticons.txt"
 negative_emoticons_file = "input/emoticons/negative_emoticons.txt"
 drugnames_file = "input/drugnames_fda.txt"
@@ -241,10 +241,13 @@ if __name__ == '__main__':
               "add the path to the variable brown_clusters"
     if adr_lexicon_file == "Path to ADR lexicon file":
         print "Please download DIEGO Lab ADR Lexicon from http://diego.asu.edu/Publications/ADRSMReview/ADRSMReview.html" \
-              "add the path to the variable brown_clusters"
+              "add the path to the variable adr_lexicon_files"
     if sider_dict_file == "Path to SIDER lexicon":
         print "Please download SIDER Lexicon from http://sideeffects.embl.de/" \
-              "add the path to the variable brown_clusters"
+              "add the path to the variable sider_dict_file"
+    if costart_dict_file == "Path to COSTART lexicon":
+        print "Please download COSTART Lexicon from  https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/CST/" \
+              "add the path to the variable costart_dict_file"
     w2v_model = word2vec.Word2Vec.load_word2vec_format(w2v_model_file, binary=True)
     costart_dict = load_dict(costart_dict_file)
     positive_emoticons_dict = load_dict(positive_emoticons_file)
