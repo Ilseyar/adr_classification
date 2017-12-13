@@ -1,0 +1,2393 @@
+INSULIN	C1337112	T028
+Energy	C0424589	T033
+blockage	C2237319	T033
+nerve damage	C0161479	T037
+fever	C0015967	T033
+raised blood pressure	C0497247	T033
+neck pain	C0007859	T184
+paralysis	C0522224	T033
+scabs	C0205204	T020
+protein	C1325816	T026
+LIP	C3889123	T028
+impending doom	C0857126	T184
+Slurred speech	C0234518	T033
+muscle damage	C0410158	T020
+flatulence	C0016204	T184
+muscular pains	C0231528	T184
+Lower Back Pain	C0024031	T184
+Relafen	C0701331	T109
+Relafen	C0701331	T121
+light headed	C0220870	T184
+feel sick	C0027497	T184T
+endonitis	C0039503	T047
+voltaren	C0699958	T109
+voltaren	C0699958	T121
+weight loss	C1262477	T033
+numbness	C0028643	T184
+Demerol	C0935966	T109
+Demerol	C0935966	T121
+Nightmares	C0028084	T184
+infection	C3714514	T046
+labyrinthitis	C0022890	T047
+unable to stand	C0560885	T033
+Pain in left arm	C0564820	T184
+Aleve	C0718343	T109
+Aleve	C0718343	T121
+goiter	C0018021	T046T
+JOIN PAIN	C0003862	T184
+amnesia	C0002622	T048
+inability to concentrate	C0235198	T033
+burning sensation	C0085624	T184
+Lipids	C0523744	T059
+abdominal pain	C0000737	T184
+gas	C0596601	T184
+high	C0205250	T080
+unable to move	C0558185	T033
+heel spurs	C0158322	T047
+folic acid	C0016410	T109
+folic acid	C0016410	T121
+folic acid	C0016410	T127
+irregular periods	C0156404	T033
+Lipids	C0023779	T109
+Dry mouth	C0043352	T047
+stomach discomfort	C0235309	T184
+dementia	C0011265	T048
+major depression	C1269683	T048
+collapse	C0332521	T067
+High blood pressure	C0020538	T047
+Congestion	C0700148	T046
+unable to concentrate	C0235198	T033
+Pain	C1549543	T169
+Facial swelling	C0151602	T033
+thigh cramps	C0850814	T184
+Peripheral neuropathy	C0031117	T047
+Anxiety	C1963064	T033T
+remor	C0040822	T184
+ALS	C0003372	T121
+ALS	C0003372	T129
+severe pain	C0278140	T033
+Extreme fatigue	C0015672	T184
+swallowing problems	C0392678	T184
+birth control	C2703065	T033
+Simvastatin	C0074554	T109
+Simvastatin	C0074554	T121
+nausea	C0027497	T184
+Pins and needles	C0423572	T184
+excessive gas	C0426623	T184
+MS	C1417325	T028
+Paranoia	C1456784	T048
+burning feet	C0231772	T184
+caffeine	C0202348	T059
+muscle twitching	C0231530	T033
+plaque	C0332461	T033
+high	C3887512	T078
+cataract	C0086543	T020
+muscle pains	C0231528	T184
+Fish Oil	C0016157	T109
+Fish Oil	C0016157	T121
+Depression	C0011570	T048
+chronic fatigue	C0518656	T033
+LEG PAIN	C0023222	T184
+PAD	C3814046	T061
+Frozen Shoulder	C0311223	T047
+shaking	C0040822	T184
+excessive menstrual bleeding	C0025323	T046
+difficulty sleeping	C0235162	T184
+feel tired	C0849970	T184
+liver problems	C0577060	T033
+abdominal cramping	C0000729	T184
+fear	C0015726	T041
+dizzy spells	C0857087	T033
+pseudoephedrine	C0033798	T109
+pseudoephedrine	C0033798	T121
+pruritus	C0033774	T184
+shaky	C0392703	T033
+hammer toe	C1136179	T190T
+remor	C1963252	T033
+chest pain left side	C0541828	T184
+dizzy	C0012833	T184
+unable to sleep	C0424565	T033
+fluid retention	C0268000	T046
+Birth control pills	C0009905	T121
+headaches	C0018681	T184
+Dizziness	C1963093	T0333
+B	C1416270	T028
+jaundice	C2010848	T033
+skin irritation	C0152030	T033
+rapid weight loss	C0750421	T033
+depression	C0344315	T033
+MORPHINE	C2698261	T059
+Gemfibrozil	C0017245	T109
+Gemfibrozil	C0017245	T121
+urine leaking	C0042024	T046
+Arthritis	C0003864	T047
+increased appetite	C0232461	T033
+Cambia	C2718733	T121
+loss of memory	C0751295	T184
+cancer	C0006826	T191
+blood pressure	C1272641	T033
+labyrinthitis	C0022893	T047
+ankle pain	C0238656	T184
+choking	C2051649	T03310
+coq 	C0056077	T10910
+coq 	C0056077	T12110
+coq 	C0056077	T123
+lassitude	C3714552	T184
+RA	C0034571	T169
+mobility	C0449580	T080
+arthritic pain	C0857177	T184
+night sweats	C0028081	T184
+skin condition	C0037274	T047
+feeling sick	C0027497	T184
+tylenol	C0699142	T109
+tylenol	C0699142	T121
+birth control	C0700589	T061
+altered taste	C0740425	T184
+MS	C3539704	T028
+xanax	C0699034	T109
+xanax	C0699034	T121
+memory loss	C0751295	T184
+neurodegeneration	C0027746	T049
+Rhabdomyolysis	C0035410	T046
+insulin	C1145751	T044
+iodine	C0885449	T121
+urgency	C0439609	T079
+constant hunger	C2107746	T184
+Neck pain	C0007859	T184
+loss of energy	C0015672	T184
+ill feeling	C0857027	T184
+irritable colon	C0022104	T047
+red rice	C1140671	T002
+increased blood glucose	C0595877	T033
+high blood pressure	C0020538	T047
+loose stool	C2129214	T184
+Abdominal pain	C0000737	T184
+Gas	C0596601	T184
+abortion	C0156543	T033
+fatigue	C2024893	T033
+right heel pain	C2032418	T184
+aches	C0234238	T184
+Joint pain	C0003862	T184
+vision impaired	C3665347	T033
+Lodine	C0700001	T109
+Lodine	C0700001	T121
+nerium	C0331095	T002
+myopathies	C0026848	T047
+Aches	C0234238	T184
+bunion	C0006386	T020
+cancer	C0260515	T033
+coronary artery disease	C1956346	T047
+mood change	C0085633	T048
+arm pain	C0239377	T184
+alopecia	C0002170	T047
+impaired memory	C0233794	T048
+back problems	C0579085	T033
+cold sweat	C0232431	T184
+Pravachol	C0700763	T109
+Pravachol	C0700763	T121
+Weight gain	C2911647	T033
+loss of hair	C0002170	T047
+Potassium	C0162800	T168
+FIBROMYALGIA	C0016053	T047
+chronic muscle pain	C0746668	T184
+productive cough	C0239134	T184
+brain aneurysm	C0751003	T047
+eye hemorrhages	C0015402	T046
+MS	C1868685	T033
+flaxseed	C0023753	T002
+diabetes	C0011860	T047
+right upper quadrant abdominal pain	C0235299	T184
+muscle pain	C0231528	T184
+IBS	C0432306	T019
+agitated	C0085631	T1843
+omega 	C0015689	T1093
+omega 	C0015689	T1213
+omega 	C0015689	T123T
+iredness	C0015672	T184
+migraines	C0149931	T047
+LEG CRAMPS	C0023218	T184
+uterine cramps	C0948782	T046
+rheumatoid arthritis	C0003873	T047
+discomfort	C2364135	T184
+loss of balance	C0241981	T033
+Difficulty in swallowing	C0011168	T047
+Pain	C0242936	T073
+Pain	C0242936	T093
+constant burping	C2107733	T184
+MS	C0026221	T083
+Weak	C1762617	T080
+severe depression	C0588008	T048
+stomach pain	C0221512	T184
+melatonin	C1527137	T109
+melatonin	C1527137	T121
+melatonin	C1527137	T125
+Zinc	C3541396	T121
+clonidine	C0009014	T109
+clonidine	C0009014	T121
+lightheadedness	C0220870	T184
+Hydrochlorothiazide	C0020261	T109
+Hydrochlorothiazide	C0020261	T121
+PAD	C1425244	T028
+muscle stiffness	C0221170	T184
+Flatulence	C0016204	T184
+sudden loss of vision	C0155002	T184
+memory problems	C0233794	T048
+MS	C0026269	T047
+muscle twitching	C0015644	T184
+Muddled thinking	C0423994	T048
+septicaemia	C0036690	T047
+anxiety	C0003467	T048
+Muscle atrophy	C0541794	T046
+PAD	C3540603	T028
+visual disturbances	C0547030	T184
+malaria	C0206255	T121
+malaria	C0206255	T129
+congestion	C0700148	T046
+strokes	C0038454	T047
+joint pain	C0003862	T184
+rash	C0015230	T18410
+Q	C1414333	T028
+moody	C0554980	T033
+Cramping	C1446787	T184
+advil	C0593507	T109
+advil	C0593507	T121
+depression	C0011570	T048
+herniated discs	C0242362	T020
+weakness in both arms	C2196599	T033
+disability	C0231170	T033
+ALS	C0002736	T047
+bronchitis	C0149514	T047
+loss of libido	C2981158	T033
+tender breasts	C0262397	T184
+elevated liver function	C0232743	T033
+bruising	C0009938	T037
+Numbness in toes	C0587056	T184
+Lower back pain	C0024031	T184
+blackouts	C0700178	T048
+Nausea	C0027497	T184
+muscle ache	C0231528	T184
+prednisone	C0032952	T109
+prednisone	C0032952	T121
+prednisone	C0032952	T125
+burning	C0085624	T184
+itchy	C0033774	T184
+Zoloft	C0284660	T109
+Zoloft	C0284660	T121
+Muscle spasms	C0037763	T184
+Depressions	C0011570	T048
+impotence	C0242350	T047
+Glyburide	C0017628	T109
+Glyburide	C0017628	T121
+jaundice	C0022346	T046
+Gas	C1546643	T170
+vertigo	C2096293	T033
+Mood swings	C0085633	T048
+Chlorella	C0033734	T002
+Forward	C0439780	T082
+throw up	C0042963	T184
+Pancreatitis	C1963198	T033
+High blood pressure	C2926615	T201
+plantar fasciitis	C0149756	T047
+suicide	C0038661	T033
+chest ache	C0235715	T033
+Potassium	C0597277	T121
+Potassium	C0597277	T196
+fever	C0424755	T033
+tendon pain	C0231529	T184
+IPEX	C3539774	T028
+taste perversion	C0013378	T033
+Fibromyalgia	C0016053	T047
+brain cancer	C0153633	T191
+disabled	C0018576	T101
+dark urine	C0426396	T184
+cold sweats	C0232431	T184
+gums swelling	C0235324	T033
+Diabetes	C0011849	T047
+blood in stool	C1321898	T184
+vomit	C0042965	T031
+diastolic dysfunction	C0520863	T046
+Cramps	C0026821	T184
+Burning feet	C0231772	T184
+elevated cholesterol	C0020443	T047
+unable to focus	C0857233	T184
+groggy	C0541992	T033
+neuralgia	C0027796	T184
+Collar	C0175751	T074
+stuffy nose	C0027424	T184
+Vicodin	C0483514	T109
+Vicodin	C0483514	T121
+cramping pain	C0458254	T033
+allergy	C0002111	T091
+Excruciating pain	C0278141	T184
+anorexia	C0003123	T047
+taste loss	C2364111	T184
+suicide	C0812393	T048
+migraine headaches	C0149931	T047
+lovastatin	C0024027	T109
+lovastatin	C0024027	T121
+NIACIN	C0027996	T121
+NIACIN	C0027996	T127
+Insomnia	C0917801	T184
+Atenolol	C0004147	T109
+Atenolol	C0004147	T121
+fish oils	C0016157	T109
+fish oils	C0016157	T121
+OA	C3496478	T023
+sexual dysfunction	C0549622	T047
+loss of memory	C0002622	T048
+Vitamin C	C0201898	T059
+calcification	C0006660	T042
+thoughts about suicide	C0424000	T033
+arthritis pain	C0718667	T109
+arthritis pain	C0718667	T121
+chronic pain	C0150055	T184
+Stomach pain	C0221512	T184T
+ingling in extremities	C1504494	T184
+motrin	C0699203	T109
+motrin	C0699203	T121T
+WEIGH GAIN	C0043094	T033
+headache	C2096315	T033
+loss of weight	C1262477	T033
+Aspirin	C0004057	T109
+Aspirin	C0004057	T121
+Diarrhea	C0011991	T184
+Mevacor	C0728780	T109
+Mevacor	C0728780	T121
+Hypercholesterolemia	C1522133	T033
+lassitude	C0086525	T184
+loss of sense of smell	C0003126	T184
+disorientation	C0009676	T048
+Nasua	C0999543	T015
+kidney pain	C0558489	T184
+Chest pain	C0008031	T184
+potassium	C0032821	T196
+blurry vision	C0344232	T184
+Vitamin E	C0042874	T109
+Vitamin E	C0042874	T121
+Vitamin E	C0042874	T127
+cataract	C1690964	T033
+high triglycerides	C0020557	T047
+inability to walk	C0560046	T033
+Lyme disease	C0024198	T047
+cortisone injections	C0392879	T061
+stumbling	C3536730	T033
+dislocating	C0332766	T082
+sedation	C0344106	T061
+Lyme disease	C0717360	T121
+Lyme disease	C0717360	T129
+hoarse voice	C0019825	T184
+miscarriage	C0000786	T046
+Palpitations	C0030252	T033T
+hyroid disease	C0040128	T047
+endometriosis	C0014175	T047
+Hunger pangs	C0581870	T184
+backache	C0004604	T184
+lethargy	C0023380	T184
+fatty liver	C0015695	T047
+itch	C0033774	T184
+tumor	C0027651	T191
+painful	C0030193	T184
+back discomfort	C0235706	T184
+blisters	C0344311	T185
+breathing difficulties	C0013404	T184
+crying	C0010399	T055
+sore	C0234233	T184
+limp	C0311395	T033
+feeling weak	C3714552	T184
+abdominal pressure	C0429218	T201
+dementia	C0497327	T048
+Muscle weakness	C0151786	T184
+Zeta	C1719914	T170
+heart problems	C0795691	T184
+melatonin	C0025219	T109
+melatonin	C0025219	T121
+melatonin	C0025219	T125
+severe weight loss	C0041667	T033
+antibiotic	C0003232	T195T
+innitus	C0040264	T033
+loose stools	C2129214	T184
+lupus	C0024141	T047
+stroke	C0038454	T047
+Stomach cramps	C0344375	T184
+Hair loss	C0002170	T047T
+remor	C0234369	T184
+iodine	C0021968	T121
+iodine	C0021968	T196
+MEMORY LOSS	C0751295	T184
+LIP	C0264511	T047
+red yeast rice	C0763533	T109
+red yeast rice	C0763533	T121
+Pancreatitis	C0030305	T047
+Muscle twitching	C0231530	T033
+elevated liver enzymes	C0235996	T033
+Lipitor	C0593906	T109
+Lipitor	C0593906	T121
+Swollen feet	C0574002	T184
+Calf Pain	C0236040	T184
+gall bladder disease	C0016977	T047
+Vertigo	C0042571	T184
+cognitive impairments	C0338656	T048
+liver disease	C0023895	T047
+Atorvastatin	C0286651	T109
+Atorvastatin	C0286651	T121
+Insomnia	C1950154	T121
+Sleeplessness	C0917801	T184
+Vitamin C	C0003968	T109
+Vitamin C	C0003968	T121
+Vitamin C	C0003968	T127
+Memory	C0025260	T041
+cholesterol	C0201950	T059
+Psychosis	C0033975	T048
+trembling	C0234369	T184
+flaxseed	C1095866	T002
+elevated blood sugar	C0020456	T047
+Red Yeast Rice	C0763533	T109
+Red Yeast Rice	C0763533	T121
+chills	C0085593	T184
+Neuropathy	C0442874	T047
+Muscle cramping	C0026821	T184
+Loss of memory	C0002622	T048
+numbness in fingers	C0587054	T184T
+LIGH HEADED	C0220870	T184
+flu-like symptoms	C0392171	T184
+coronary artery disease	C0010054	T047
+Zinc	C0373748	T059
+Lupus	C0409974	T047
+Cymbalta	C1505021	T109
+Cymbalta	C1505021	T121
+hip pain	C0019559	T184
+breathing problems	C1260922	T033
+frequent bowel movements	C0239978	T033
+Fatigued	C0015672	T184
+nervous	C0027769	T184
+lower leg pain	C0839480	T184
+calf cramping	C0178419	T184
+Malaise	C0700200	T184
+INSULIN	C0021641	T116
+INSULIN	C0021641	T121
+INSULIN	C0021641	T12510
+coenzyme Q	C0056077	T10910
+coenzyme Q	C0056077	T12110
+coenzyme Q	C0056077	T123
+ubiquinone	C0041536	T109
+ubiquinone	C0041536	T121
+ubiquinone	C0041536	T123
+polymyositis	C0085655	T047
+Stiffness	C0427008	T184
+cedrol	C0656193	T109
+cedrol	C0656193	T121
+sinus pain	C0522251	T184
+NECK PAIN	C0007859	T184
+Advil	C0593507	T109
+Advil	C0593507	T121
+urinary incontinence	C0042024	T046
+Irritable	C0022107	T033
+Muscle wasting	C0541794	T046
+Polymyositis	C0085655	T047
+memory deficits	C0233794	T048
+Neurontin	C0678176	T109
+Neurontin	C0678176	T121
+blurring vision	C0344232	T184
+simvastatin	C0074554	T109
+simvastatin	C0074554	T121
+tired	C0557875	T184
+Menopausal	C0025320	T039
+hypothyroidism	C0020676	T047
+insomnia	C0917801	T184
+Myocardial Infarction	C3810814	T060
+Blurred vision	C0344232	T184
+Cold sweat	C0232431	T184
+Headache	C0018681	T184
+difficulty walking	C0311394	T033
+alpha lipoic acid	C0023791	T109
+alpha lipoic acid	C0023791	T121
+alpha lipoic acid	C0023791	T127
+Muscle Pain	C0231528	T184
+hunger	C0020175	T184
+lupus	C0024138	T047
+thumb pain	C0241394	T184
+kidney stone	C0022650	T047
+fainting	C0039070	T184
+aspirin	C0004057	T109
+aspirin	C0004057	T121T
+LIPIOR	C0286650	T109T
+LIPIOR	C0286650	T121
+GEMFIBROZIL	C0017245	T109
+GEMFIBROZIL	C0017245	T121
+feel bad	C0557911	T184
+eyesight problems	C3665386	T033
+MSM	C0058231	T109
+MSM	C0058231	T121
+vitamin C	C2349136	T109
+vitamin C	C2349136	T127
+knee swells	C0240130	T033
+glucosamine sulfate	C0017720	T109
+glucosamine sulfate	C0017720	T121
+disorientation	C0233407	T048
+POLICOSANOL	C0215278	T109
+POLICOSANOL	C0215278	T121
+dry heaves	C0232602	T184
+general weakness	C3714552	T184
+upper respiratory infections	C0041912	T047
+rhabdomyolysis	C0035410	T046
+tagamet	C0592157	T109
+tagamet	C0592157	T121
+Lyme Disease	C0024198	T047
+cold	C0009264	T070
+Loss of balance	C0241981	T033
+sleeplessness	C0917801	T184
+back aches	C0004604	T184
+OA	C0029408	T047
+acute gastritis	C0149518	T047
+Weight gain	C0043094	T033
+back ache	C0004604	T184
+Flatulence	C0596601	T184
+finger stiffness	C0239596	T184
+balance loss	C0241981	T033
+appetite increase	C0232461	T033TT
+CONSIPAION	C0009806	T184
+muscle spasms	C0037763	T184
+peritonitis	C0031154	T047
+MS	C0039676	T116
+MS	C0039676	T126
+Flatulence	C1962956	T033
+Energy	C0542479	T070
+tachycardia	C0039231	T046
+dysphagia	C0011168	T047
+joint stiffness	C0162298	T184
+viral upper respiratory infection	C0009443	T047
+collapse	C2210463	T033
+problems with balance	C0575090	T184
+MS	C0175233	T023
+stomach cramps	C0344375	T184
+stomach ulcers	C0038358	T047
+KIDNEY	C1514845	T024
+PAD	C1704436	T047
+leg cramps	C0023218	T184
+Lovastatin	C0024027	T109
+Lovastatin	C0024027	T121
+Elevated liver enzymes	C0235996	T033
+movement restriction	C0557989	T061
+swelling of right knee	C2202278	T033
+diabetics	C0241863	T033
+arthritis	C0003864	T047
+poor circulation	C0425711	T033
+Shortness of breath	C0013404	T184
+IBS	C0022104	T047
+detachment	C0595950	T046
+unmotivated	C0520941	T033
+dysmenorrhea	C0013390	T046
+lower abdominal pain	C0232495	T184
+light headedness	C0220870	T184
+dry eyes	C0314719	T184
+Pain	C1882272	T033
+zeta	C2239557	T028
+Coronary Artery Disease	C1956346	T047
+sweats	C0038990	T033
+Zantac	C0592278	T109
+Zantac	C0592278	T121
+flu like symptoms	C0392171	T184
+foot problems	C0555980	T033
+hives	C0042109	T047
+Memory	C1706377	T073
+allegra	C1110594	T109
+allegra	C1110594	T121
+Zestril	C0678140	T116
+Zestril	C0678140	T121
+carpal tunnel syndrome	C0007286	T047
+bad dreams	C0857051	T184
+emotional	C0849912	T033
+fish oil	C0016157	T109
+fish oil	C0016157	T121
+memory loss	C0002622	T048
+EDS	C0013720	T019
+EDS	C0013720	T047
+Blurry vision	C0344232	T184
+Hair thinning	C0002170	T047
+Pain	C0030193	T184
+tinnitus	C0040264	T033
+High Cholesterol	C1522133	T033
+loss of appetite	C0003123	T047
+Potassium	C0202194	T059
+tunnel vision	C2937228	T033
+jaundice	C2203646	T184
+blood in urine	C0018965	T033
+lecithin	C0031617	T109
+lecithin	C0031617	T121
+lecithin	C0031617	T123
+psychiatric	C0205487	T169
+Pernasal	C0521131	T082
+muscle spasm	C0037763	T184
+Multiple Sclerosis	C0026769	T047
+mevacor	C0728780	T109
+mevacor	C0728780	T121
+heavy menstrual bleeding	C0025323	T046
+disoriented	C0233407	T048
+pain in both legs	C2032151	T184
+itching all over	C0475858	T184
+amyotrophic lateral sclerosis	C0002736	T047
+inflammation	C0021368	T046
+Gas	C1550641	T167
+LIP	C1846919	T028
+dry skin	C0151908	T184
+wind	C0043187	T070
+Knee pain	C0231749	T184
+reflux	C0017168	T047
+pain in foot	C0016512	T184
+LOSS OF MEMORY	C0751295	T184
+Memory Loss	C0751295	T184
+bone cancer	C0279530	T191
+vivid dreams	C0344320	T033
+chest tightness	C0232292	T184
+lactose	C1696723	T167
+depression	C1579931	T184
+swollen foot	C0574002	T184
+coma	C0009421	T047
+sex drive	C0023618	T041
+Memory loss	C0751295	T184
+Leg pain	C0023222	T184
+fibromyalgia	C0016053	T047
+tingling	C2242996	T184
+Indigestion	C0013395	T184
+EDS	C2699997	T059
+memory problem	C0233794	T048
+tendon contracture	C0158350	T046
+slurred speech	C0234518	T033
+severe headache	C2957106	T184
+phlebitis	C0031542	T047
+hematuria	C0018965	T033
+GI bleed	C0017181	T046
+feel hot	C0424749	T033
+Energy	C1442080	T081
+lupus	C0409974	T047
+sleep loss	C0235161	T033
+poor sleep	C0235162	T184
+Muscle wasting	C0026846	T046
+short term memory	C0025265	T041
+blood in urine	C0221752	T034
+pain in shoulder	C0037011	T184
+Insomnia	C1963237	T033
+Numbness in fingers	C0587054	T184
+flushing	C0016382	T184
+hammer toe	C2239184	T020
+sleep disturbance	C0037317	T184
+olive oil	C0069449	T109
+olive oil	C0069449	T168
+Difficulty getting to sleep	C0393760	T048
+lack of energy	C0015672	T184
+bruises	C0009938	T037
+red rice	C0997169	T002
+parkinson's disease	C0030567	T047
+tiredness	C0015672	T184
+RA	C0003873	T047
+zocor	C0678181	T109
+zocor	C0678181	T121
+constipation	C0009806	T184
+neuroma	C0027858	T191
+Eye problem	C0262477	T033
+CANCER	C0006826	T191
+birth control pill	C0009905	T121
+blood in stool	C0018932	T033
+difficulty concentrating	C0947509	T041
+calf pain	C0236040	T184
+Effexor	C0591437	T109
+Effexor	C0591437	T121
+plaque	C0333463	T020
+Deep bruising	C0433056	T037
+tachycardia	C3827868	T033
+shortness of breath	C0013404	T184
+blackouts	C0312422	T184
+chronic knee pain	C0745571	T047
+sore throat	C0242429	T184
+clumsiness	C0233844	T184
+tired all the time	C0015672	T184
+Crestor	C1098080	T109
+Crestor	C1098080	T121
+gastric bleed	C0235325	T047
+magnesium	C0024467	T196
+easy bruising	C0423798	T033
+gurgling	C0232517	T184
+SWELLING	C0038999	T033
+Palpitations	C3160712	T033
+joint ache	C0003862	T184
+increase appetite	C0232461	T033
+palpitations	C0030252	T033
+niacin	C0027996	T121
+niacin	C0027996	T127
+shoulder pain	C0037011	T184
+decreased libido	C0011124	T184
+Premarin	C0014938	T109
+Premarin	C0014938	T121
+Premarin	C0014938	T125
+MS	C1513009	T170
+depression	C0812393	T048
+temperature	C0005903	T032
+tightness	C0439816	T080
+eye pain	C0151827	T184
+DIZZINESS	C0012833	T184
+Muscle pain	C0231528	T184T
+ZEA	C1419007	T028
+Nausea	C1963179	T046
+Collar	C2826221	T081
+caffeine	C2919093	T047
+ill feeling	C0231218	T184
+pain in ankle	C0238656	T184
+stomach problems	C2186536	T033
+ears ringing	C0040264	T033
+darvon	C0701094	T109
+darvon	C0701094	T121
+Diovan	C0719949	T109
+Diovan	C0719949	T121
+low back pain	C0024031	T184
+heavy legs	C0581911	T033
+tendonitis	C0039503	T047
+extreme fatigue	C0015672	T184
+room spinning	C0848277	T184
+cymbalta	C1505021	T109
+cymbalta	C1505021	T121
+gastric pain	C0221512	T184
+Heartburn	C0018834	T184
+hopelessness	C0150041	T048
+lack of concentration	C0235198	T033
+poor memory	C0233794	T048
+short-term memory loss	C0701811	T048
+Lipid	C0023779	T109
+anorexia	C1971624	T033
+neurontin	C0678176	T109
+neurontin	C0678176	T121
+laziness	C0948094	T184
+diovan	C0719949	T109
+diovan	C0719949	T121
+Chlorella	C1254145	T002
+avascular necrosis	C3887513	T033
+Fatigue	C4050243	T170
+Joint Pain	C0003862	T184
+bloating	C1291077	T184
+IPEX	C0342288	T047
+Energy	C1547025	T081
+lecithin	C0885520	T109
+lecithin	C0885520	T121
+muscle aches	C0231528	T184
+peripheral neuropathy	C0031117	T047T
+FAIGUE	C0015672	T184
+faintness	C0039070	T184
+black outs	C0312422	T184
+blurred vision	C0344232	T184
+sore feet	C0863085	T184
+metatarsalgia	C0025587	T184
+RA	C4048756	T023
+MS	C0026514	T083
+Forgetfulness	C0542476	T184
+heart attacks	C0027051	T047
+Bleeding	C0019080	T046
+Anxiety	C0860603	T033
+myalgia	C0231528	T184TT
+ARHRIIS	C0003864	T047
+diarrhoea	C0011991	T184
+Gas	C0017110	T104
+FOLIC ACID	C0016410	T109
+FOLIC ACID	C0016410	T121
+FOLIC ACID	C0016410	T127
+fatigue	C0015672	T184
+Bloating	C1291077	T184
+prinivil	C0701176	T116
+prinivil	C0701176	T121
+indigestion	C0013395	T184
+Zinc	C2348288	T196
+tooth decay	C0011334	T047
+sedation	C0235195	T033
+muscle weakness	C0151786	T184
+KIDNEY	C0022646	T023
+Spasms	C0037763	T184
+atrophy	C0333641	T046
+morphine	C0026549	T109
+morphine	C0026549	T121
+Nostril	C0595944	T030
+lightheaded	C0220870	T184
+aphasia	C0003537	T048
+reflux	C0232483	T046
+aortic aneurysm	C2072946	T033
+general malaise	C0231218	T184
+MS	C0439223	T079
+severe back pain	C0238740	T184
+distention	C3714614	T033
+bursitis	C0006444	T047
+muscles pains	C0231528	T18410
+Q	C0041536	T10910
+Q	C0041536	T12110
+Q	C0041536	T123
+transient amnesia	C0233796	T048T
+SOMACH ULCER	C0038358	T047
+KNEE PAIN	C0231749	T184
+rotator cuff injury	C0851122	T037
+heat stress	C0282507	T037
+Kidney failure	C0035078	T047
+vitamin E	C0042874	T109
+vitamin E	C0042874	T121
+vitamin E	C0042874	T127
+numbness	C0020580	T033
+misoprostol	C0085174	T109
+misoprostol	C0085174	T121
+coccyx pain	C0009193	T184
+abdominal cramps	C0000729	T184
+falls	C0085639	T033
+mobility	C0425245	T033
+bleeding problems	C0019080	T046
+Chlorella	C0008190	T002
+vomited	C0042963	T184
+swollen joints	C0152031	T184
+muscular pain	C0231528	T184
+Constipation	C1963087	T033
+Enlarged liver	C0019209	T184
+prostate infection	C0240811	T047
+PAD	C2347441	T1226
+B	C1521751	T015
+Fatigue	C0015672	T184
+photosensitivity	C0349506	T046T
+hrobbing headache	C0423618	T184
+BACK PAIN	C0004604	T184
+Diarrhea	C1963091	T033
+fatigued	C0015672	T184
+acid reflux	C0017168	T047
+Lupus	C0024131	T047
+sensitivity	C0036667	T0816
+B	C3496269	T025
+chest discomfort	C0235710	T18410
+Q	C2827473	T028
+lactose	C1260222	T121
+hematuria	C0221752	T034
+magnesium	C0373675	T059
+swollen tongue	C0236068	T046
+cough	C0010200	T184
+cortisone injection	C0392879	T061
+slo-niacin	C0723371	T109
+slo-niacin	C0723371	T121
+gastritis	C0017152	T047
+cardiovascular disease	C0007222	T047
+saw palmetto	C0697222	T002
+toothache	C0040460	T184
+blood pressure	C0005824	T058
+Stevens Johnson Syndrome	C0038325	T047
+fitful sleep	C0393761	T048
+decreased mobility	C0700572	T033
+hypertension	C0020538	T047
+itching	C0033774	T184
+Hip pain	C0019559	T184
+trigger point pain	C1317590	T201
+Bisoprolol	C0053799	T109
+Bisoprolol	C0053799	T121
+feel sick	C0857027	T184
+HEADACHE	C0018681	T184
+angina attacks	C0235462	T047
+fevers	C0015967	T033
+erythema	C0041834	T047
+canker sores	C0038363	T047
+testosterone	C0039601	T109
+testosterone	C0039601	T121
+testosterone	C0039601	T125
+Phytosterol	C0031866	T109
+Phytosterol	C0031866	T121
+Phytosterol	C0031866	T123
+nightmares	C0028084	T184
+agitation	C0085631	T184
+ultra	C0728475	T074
+hydrocodone	C0020264	T109
+hydrocodone	C0020264	T121
+agony	C0521992	T033
+tremors	C0040822	T184
+trazodone	C0040805	T109
+trazodone	C0040805	T121T
+ums	C0723950	T121T
+ums	C0723950	T197
+coronary disease	C0010068	T047
+muscle fatigue	C0242979	T042
+MUSCLE SORENESS	C0231528	T184
+Muscle weakness	C0030552	T184
+rapid pulse	C0039231	T046T
+ylenol	C0699142	T109T
+ylenol	C0699142	T121
+crestor	C1098080	T109
+crestor	C1098080	T121
+Prednisone	C0032952	T109
+Prednisone	C0032952	T121
+Prednisone	C0032952	T125
+breathlessness	C0013404	T184
+stressed	C0038435	T033
+pruritus ani	C0033775	T184
+thinning hair	C0002170	T047
+allergies	C0020517	T046
+Depression	C0011581	T048
+lower back pain	C0024031	T184
+anxiety	C0860603	T033
+ALS	C1704945	T028
+Confusion	C1963086	T033
+diabetic	C0241863	T033
+paranoia	C1456784	T048
+Severe pain	C0278140	T033
+MS	C0037813	T059
+infections	C3714514	T046
+choking	C0011119	T047
+knee pain	C0231749	T184
+loss of strength	C3714552	T184
+cold hands	C0424740	T033
+MUSCLE PAIN	C0231528	T184
+bedridden	C0741453	T033
+muscle cramps	C0026821	T184
+ankle swelling	C0235439	T033
+dull headaches	C0239885	T033
+leg pain	C0023222	T184
+Vertigo	C1135208	T047
+weight gain	C0043094	T033
+hypotension	C0020649	T033
+INSULIN	C0202098	T059
+Pravastatin	C0085542	T109
+Pravastatin	C0085542	T121
+Lopressor	C0700776	T109
+Lopressor	C0700776	T121
+Motrin	C0699203	T109
+Motrin	C0699203	T121
+Hypercholesterolemia	C0020443	T047
+abdominal hematoma	C0473120	T047
+abnormal dreams	C0234458	T048
+Weakness	C3714552	T184T
+aste perversion	C0013378	T033
+Potassium	C0304475	T121
+Potassium	C0304475	T197
+MOOD SWINGS	C0085633	T048
+ambien	C0487782	T109
+ambien	C0487782	T121
+ache	C0234238	T184
+Malaise	C0857027	T184
+Malaise	C0231218	T184
+dizziness	C0042571	T184
+clotting	C1328723	T039
+muscle pull	C0080194	T037
+OA	C0020410	T015
+crippled	C0010331	T101
+Voltaren-XR	C0724377	T109
+Voltaren-XR	C0724377	T121
+bleeding problem	C0019080	T046
+bipolar disorder	C0005586	T048T
+ingling	C2242996	T184
+Abdominal cramps	C0000729	T184
+thyroid	C0040132	T023
+blood sugar	C0005802	T109
+MS	C1417453	T028
+allergy	C0020517	T046
+gas pains	C0476289	T184
+Bypass	C0741847	T061
+Muscle pain	C1963177	T033
+Burning	C0085624	T184
+Neck pain	C1963180	T033
+twitch	C0231530	T033
+myopathy	C0026848	T047
+bad taste in mouth	C0578994	T184
+soreness	C0234233	T184
+DIZZY	C0012833	T184
+Nerve pain	C0751372	T184
+mental illness	C0455498	T033
+rectal bleeding	C0267596	T046
+wind	C0016204	T184
+colitis	C0009319	T047
+overweight	C0497406	T184
+Muscle Fatigue	C0242979	T042
+muscle injury	C0410256	T037
+St John's Wort	C0936242	T002
+difficult swallowing	C0011168	T047
+Alopecia	C0002170	T047
+canadine	C0054569	T109
+hallucinations	C0018524	T048
+Heart attack	C0027051	T047
+Paracetamol	C0373527	T059
+anorexia	C0426579	T184
+OA	C3887876	T033
+mental illness	C0004936	T048TT
+DIGESIVE SYSEM	C0012240	T022
+Decreased energy	C0015672	T184
+birth control pill	C0009906	T121T
+IA	C0917805	T047
+scalp itching	C0240941	T184
+calcification	C0175895	T080
+spotting	C0312414	T184
+swelling of throat	C0559687	T184
+left heel pain	C2032349	T184
+Depression	C1999266	T033
+Bell's palsy	C0376175	T047
+headache	C0018681	T184
+pravachol	C0700763	T109
+pravachol	C0700763	T121
+Zocor	C0678181	T109
+Zocor	C0678181	T121
+LIP	C0023759	T023
+gas	C0017110	T104
+upset stomach	C0235309	T184
+muscle weakness	C0030552	T184
+lethargic	C0023380	T184
+dehydration	C0011175	T047
+Memory lapses	C0557932	T048
+transient global amnesia	C0338591	T048
+rapid heart beat	C0039231	T046
+prostate cancer	C0600139	T191
+Acid Reflux	C0017168	T047
+lactose	C0022949	T109
+lactose	C0022949	T123
+bladder infection	C0600041	T047
+Flu like symptoms	C0392171	T184
+menopausal	C0025320	T039
+Exhaustion	C0392674	T184
+Memory Loss	C0002622	T048
+muscles pain	C0231528	T184
+memory	C0025260	T041
+lupus	C0024131	T047
+numbness in toes	C0587056	T184
+Chest tightness	C0232292	T184
+elevated blood pressure	C0497247	T0333
+B	C0507113	T023
+twitching	C0231530	T033
+sweating	C0038990	T033
+Chlorella	C1054037	T002
+heart attack	C0027051	T047
+drowsiness	C0013144	T033
+allergy	C0489531	T033
+insulin	C1337112	T028
+saw palmetto	C0771607	T109
+saw palmetto	C0771607	T121
+pancreatitis	C0030305	T047
+armpit	C0004454	T029
+lecithin granules	C0775124	T200
+bleeding problems	C2186261	T033
+cramping	C0026821	T184
+lack of motivation	C0456814	T033
+Myocardial Infarction	C0428953	T034
+parkinson's	C0030567	T047
+drowsy	C0013144	T033
+KIDNEY	C0812426	T184
+short attention span	C0262630	T033
+Increase in blood pressure	C0497247	T033
+opiate	C0376196	T121
+opiate	C0376196	T131
+bleeding	C0019080	T046
+high cholesterol	C1522133	T033
+kidney stone	C0392525	T047
+Chlorella	C1947928	T002
+Fuzzy	C0541974	T033
+sore throat	C0031350	T047
+Codeine	C0524087	T059
+larix	C0884985	T002
+BALANCE	C0308403	T121
+watery	C0443350	T080
+amlodipine	C0051696	T109
+amlodipine	C0051696	T121
+Upset stomach	C0235309	T184
+perforated ulcer	C0333292	T020
+avascular necrosis	C0027543	T046
+PAIN	C0030193	T184
+backpain	C0004604	T184
+hair thinning	C0002170	T047
+spasms	C0037763	T184
+intestinal pain	C0850045	T184
+Depression	C0460137	T169
+glossitis	C0017675	T047
+Weak	C3714552	T184
+collapse	C0344329	T033T
+IA	C0007787	T047
+balance problems	C0575090	T184
+burning sensations	C0085624	T184
+adenomyosis	C0341858	T047
+Constipation	C0009806	T184
+feel bad	C0231218	T184
+MS	C1881819	T078
+allergic reaction	C0020517	T046
+vitamin C	C0003968	T109
+vitamin C	C0003968	T121
+vitamin C	C0003968	T127
+cold	C0234192	T039
+stiff neck	C0151315	T184
+difficulty swallowing	C0011168	T047T
+VERIGO	C0042571	T184
+gout	C0018099	T047
+always hungry	C0426585	T033
+Lescol	C0591720	T109
+Lescol	C0591720	T121T
+BLADDER INFECION	C0600041	T047
+metoprolol	C0025859	T109
+metoprolol	C0025859	T121
+neurodegenerative disease	C0524851	T047
+short term memory loss	C0701811	T048
+loose bowels	C2129214	T184
+Vertigo	C1069915	T204
+eczema	C0013595	T047
+ramipril	C0072973	T109
+ramipril	C0072973	T121
+calcification	C0006663	T046
+forgetful	C0542476	T184
+WEEK	C0439230	T079
+insulin	C0021641	T116
+insulin	C0021641	T121
+insulin	C0021641	T125
+brain tumor	C0006118	T191
+Chest pain	C2926613	T201
+plaque	C0011389	T047
+dizziness	C0012833	T184
+itchy scalp	C0240941	T184
+Numbness	C0028643	T184
+double vision	C0012569	T033
+leg weakness	C0427068	T033
+hip pains	C0019559	T184
+bruising	C2136686	T033
+Heart disease	C0018799	T047
+severe menstrual pain	C0013390	T046
+cholesterol	C0008377	T109
+cholesterol	C0008377	T123
+PAIN	C1557397	T033
+Depression	C4049644	T170
+flaxseed	C0995001	T109
+flaxseed	C0995001	T121
+MS	C0025867	T081
+prilosec	C0700777	T109
+prilosec	C0700777	T121
+Flu-like symptoms	C0392171	T184
+abortion	C0392535	T061
+frequent headaches	C0948396	T184
+memory	C0700327	T033
+Vitamin C	C2349136	T109
+Vitamin C	C2349136	T127
+tendinitis	C0039503	T047
+Voltaren	C0699958	T109
+Voltaren	C0699958	T121
+Shortness of breath	C2707305	T201
+Hair thinning	C0020678	T019
+feeling sick	C0857027	T184
+Shoulder pain	C0037011	T184T
+ylenol PM	C0724028	T109T
+ylenol PM	C0724028	T121
+Leg cramps	C0023218	T184
+Gas-X	C0720580	T109
+Gas-X	C0720580	T121
+depression	C0011581	T048
+magnesium orotate	C0536004	T109
+magnesium orotate	C0536004	T121
+Chlorella	C1054036	T002
+foot pain	C2016948	T184
+wheezing	C0043144	T184
+MS	C0026769	T047
+impotence	C2187990	T184
+Water retention	C2584327	T040
+forgetfulness	C0542476	T184
+irregular heartbeat	C0237314	T033
+zeta	C1719914	T170
+ibuprofen	C0020740	T109
+ibuprofen	C0020740	T121
+difficulty breathing	C0013404	T184
+diclofenac	C0012091	T109
+diclofenac	C0012091	T121
+Sciatica	C0036396	T184
+anxious	C0003467	T048
+nauseated	C0027497	T184
+muscle strain	C0080194	T037
+cramps	C0026821	T184
+ulcer	C0041582	T047
+swelling	C0038999	T033
+asthmatic	C0004096	T047
+INSULIN	C1533581	T116
+INSULIN	C1533581	T121
+INSULIN	C1533581	T125
+sick to stomach	C0848290	T184
+polyneuropathy	C0152025	T047
+detachment	C0541879	T041
+finger tingling	C0850630	T184
+DEPRESSED	C0549249	T033
+weakness	C3714552	T184
+Fish oil	C0556145	T168
+Shortness of Breath	C0013404	T184
+RA	C0002893	T047
+Diabetes	C0011847	T047
+spasm	C0037763	T184
+week	C0439230	T079
+Fever	C0015967	T033
+chest pain	C0008031	T184
+thyroid	C0040134	T116
+thyroid	C0040134	T121
+thyroid	C0040134	T125
+Fever	C0424755	T033
+blood pressure	C0005823	T040
+neuropathy	C0442874	T047
+foot pain	C0016512	T184
+vomit	C0042963	T184
+orthotic	C0813253	T091
+Confusion	C0683369	T184
+mild depression	C0588006	T048
+wrist pain	C0221785	T184
+confusion	C0009676	T048
+Severe depression	C0588008	T048
+vertigo	C0042571	T184
+Cataflam	C0719187	T109
+Cataflam	C0719187	T121
+MS	C0183396	T074
+Deafness	C0011053	T033
+Jaundice	C0022346	T046
+nauseous	C0027497	T184
+PAD	C1425478	T028
+body pain	C0741585	T184
+Lisinopril	C0065374	T116
+Lisinopril	C0065374	T121
+throat pain	C2015956	T033
+muscle twitches	C0231530	T033
+severe vertigo	C0522365	T184
+Ibuprofen	C0020740	T109
+Ibuprofen	C0020740	T121
+diabetes	C0011849	T047
+neurological problems	C0221571	T033
+pneumonia	C0032285	T047
+menstrual cramps	C0013390	T046T
+NEUROPAHY	C0442874	T047
+panic attack	C0086769	T048
+Anxiety	C0003469	T048
+back pain	C0004604	T184
+vaginal bleeding	C2979982	T047
+lipitor	C0593906	T109
+lipitor	C0593906	T121
+chronic fatigue syndrome	C0015674	T047
+irritability	C0022107	T033
+Elevated blood pressure	C0497247	T033T
+innitus	C1963249	T03310
+Q	C0056077	T10910
+Q	C0056077	T12110
+Q	C0056077	T123
+Back pain	C0004604	T184
+liver damage	C0151763	T046
+ezetimibe	C1142985	T109
+ezetimibe	C1142985	T121
+ulcers	C0041582	T047
+muscle soreness	C0231528	T184
+Water retention	C0542203	T033
+tight neck muscles	C2116289	T184
+allergy	C1527304	T046
+Nasua	C0325028	T015
+pains	C0030193	T184
+Lexapro	C1170371	T109
+Lexapro	C1170371	T1211
+type  diabetes	C0011854	T047
+Bell's Palsy	C0376175	T047
+Back pain	C1963071	T033
+Anxiety	C0003467	T048
+abdominal cramps	C3888418	T184
+crying for no reason	C2127348	T184
+restless leg syndrome	C0035258	T047
+migraine	C0149931	T0472
+type  diabetes	C0011860	T047
+loss of speech	C0542223	T033
+rapid shallow breathing	C0425488	T033
+choking	C0008301	T046
+Bell's Palsy	C0015469	T047
+light head	C0220870	T184
+loss of appetite	C0426579	T184
+stomach upsets	C0235309	T184
+swollen	C0038999	T033
+Burping	C0014724	T184
+cyclobenzaprine	C0056732	T109
+cyclobenzaprine	C0056732	T121
+loss of appetite	C1971624	T033
+Memory loss	C0002622	T048
+Vitamin E	C1142098	T059
+leg pain	C0839480	T184
+lipoic acid	C0023791	T109
+lipoic acid	C0023791	T121
+lipoic acid	C0023791	T127
+increased heart rate	C0039231	T046
+hunger pangs	C0581870	T184
+allergies	C0489531	T033
+heart disease	C0018799	T047
+MORPHINE	C0026549	T109
+MORPHINE	C0026549	T121
+shoulder pain	C0423670	T184
+Glucosamine	C0017718	T109
+Glucosamine	C0017718	T121
+rashes	C0015230	T184
+Premarin	C0699710	T109
+Premarin	C0699710	T121
+Premarin	C0699710	T125
+skin rash	C0015230	T184
+menopause	C0025320	T039
+cold	C0009443	T047
+chondroitin	C0008454	T109
+chondroitin	C0008454	T121
+chondroitin	C0008454	T123
+Confusion	C0009676	T048
+chronic rhinitis	C0008711	T047
+memory lapses	C0557932	T048
+arrhythmia	C0003811	T033
+heart	C0018787	T023
+moodiness	C0241999	T041
+mild pain	C0278138	T033
+foggy vision	C0344232	T1846
+B	C0507115	T023
+flexeril	C0728797	T109
+flexeril	C0728797	T121
+suicidal	C0438696	T033
+Niacin	C0027996	T121
+Niacin	C0027996	T127
+abnormal uterine bleeding	C3650625	T046
+sleep aid	C0718303	T109
+sleep aid	C0718303	T121
+urinary tract infection	C0042029	T047
+learning problems	C0233831	T185
+Rashes	C0015230	T184
+Malt	C0024651	T168
+partial paralysis	C0030552	T184
+osteoarthritis	C0029408	T047
+SWELLING	C0013604	T033
+red rice	C0452711	T168
+burning sensation	C0241057	T18412
+B-	C3817339	T12112
+B-	C3817339	T127
+Lysine	C0523760	T059
+stomach upset	C0235309	T184
+aching joints	C0003862	T184
+rage	C0034634	T041
+anger	C0002957	T041
+red rice	C0997170	T002
+shuffling gait	C0231688	T033
+mood swings	C0085633	T048
+irritable	C0022107	T033
+Muscle fatigue	C0242979	T042
+CRIPPLED	C0010331	T101
+flu	C0021400	T047
+runny nose	C1260880	T1843
+B	C1521896	T1163
+B	C1521896	T1213
+B	C1521896	T129
+muscle atrophy	C0026846	T046
+Benadryl	C0700899	T109
+Benadryl	C0700899	T121
+Pain	C2598155	T201
+burning	C0175627	T080
+abnormal liver function	C0086565	T046
+Codeine	C0009214	T109
+Codeine	C0009214	T121
+frequent urination	C0042023	T033
+mental confusion	C0009676	T048
+ulcerative colitis	C0009324	T047
+facial paralysis	C0015469	T047
+sadness	C3536794	T041
+Disturbed sleep patterns	C0150079	T033
+St John's Wort	C0813171	T109
+St John's Wort	C0813171	T121
+Lethargy	C0023380	T184
+involuntary movements	C0427086	T184
+propanal	C0072184	T109
+propanal	C0072184	T131
+Dizzy spells	C0857087	T033
+protein	C0033684	T116
+protein	C0033684	T123
+rage	C0101725	T116
+rage	C0101725	T192
+bronchitis	C0006277	T047
+Potassium	C0032821	T19610
+coq	C0056077	T10910
+coq	C0056077	T12110
+coq	C0056077	T123
+breast pain	C0024902	T184
+restless legs	C0035258	T047
+cramps in legs	C0023218	T184
+loneliness	C0023974	T033
+Muscle aches	C0231528	T184
+change in personality	C0240735	T184
+liver enzymes elevated	C0235996	T033
+Headaches	C0018681	T184
+Joint pain	C1963066	T033
+restless	C0085631	T184
+GERD	C0017168	T047
+feverish	C0015967	T033
+vomiting	C0042963	T184
+thyroid	C2228489	T058
+caffeine	C0006644	T109
+caffeine	C0006644	T121
+asthma	C0004096	T047
+exhaustion	C0392674	T184
+ringing in the ears (tinnitus)	C0040264	T033
+stress	C0038435	T033T
+SOMACH PAIN	C0221512	T184
+heartburn	C0018834	T184
+myocardial infarction	C0027051	T047
+Poor concentration	C0233417	T033
+Lyrica	C1570232	T109
+Lyrica	C1570232	T121
+Dizzy	C0012833	T184
+collapse	C0036974	T046
+exercise intolerance	C0424551	T033
+infection	C0009450	T047
+Spleen Cancer	C0153470	T191
+sinus congestion	C0152029	T184
+bed wetting	C0270327	T048
+throat pain	C0242429	T184
+eye problems	C0262477	T033
+liver failure	C0085605	T047
+Anxiety	C4050613	T170
+unable to walk	C0560046	T033
+glucosamine	C0017718	T109
+glucosamine	C0017718	T121
+throat tightness	C0236071	T033
+CRAMPS	C0026821	T184
+anorexic	C0003123	T047
+Zinc	C0043481	T121
+Zinc	C0043481	T196
+shin pain	C0241032	T184
+tingling in fingers	C0850630	T184
+kidney failure	C0035078	T047
+senile	C0392079	T033
+nerve pain	C0751372	T184T
+ype II Diabetes	C0011860	T047
+ALS	C1456383	T028
+hand tremors	C0239842	T033
+Swelling	C0038999	T033
+intermittent pain	C1282310	T184
+blind spot	C0344233	T033
+Amyotrophic lateral sclerosis	C0002736	T047
+diarrhea	C0011991	T184
+periorbital edema	C0151205	T184
+depressed	C0344315	T033
+nosebleeds	C0014591	T046
+birth control pill	C0029151	T061TT
+SIMVASAIN	C0074554	T109TT
+SIMVASAIN	C0074554	T121
+sleep disturbances	C0037317	T184
+neurodegenerative diseases	C0524851	T047
+abdominal pains	C0000737	T184
+constipated	C0009806	T184
+sinus infection	C0037199	T047
+bleed	C0019080	T046
+cannot sleep	C0424565	T033
+ear aches	C0013456	T184
+Chondroitin	C0008454	T109
+Chondroitin	C0008454	T121
+Chondroitin	C0008454	T123
+sickness	C0221423	T184
+acute kidney failure	C0022660	T047
+hot flashes	C0600142	T184
+heart rhythm	C0232187	T042
+hemorrhoids	C0019112	T047
+Cramping	C0026821	T184
+temperature	C0039476	T081
+tennis elbow	C0039516	T047
+elbow pain	C0239266	T184
+rhinitis	C0035455	T047
+malaria	C0024530	T047
+Metabolic syndrome	C0524620	T047
+blood clots	C0302148	T031
+Athlete's foot	C0040259	T047
+Muscle atrophy	C0026846	T046
+sensitivity	C1511883	T0813
+B	C3889129	T028TTT
+HEAR AACK	C0027051	T047
+stiffness	C0427008	T184
+Emetrol	C0306071	T109
+Emetrol	C0306071	T121
+flank pain	C0016199	T184
+Lysine	C0024337	T116
+Lysine	C0024337	T121
+Lysine	C0024337	T123
+PAD	C1305849	T060
+rectal bleed	C0267596	T046
+DEPRESSION	C0011570	T048
+Zeta	C2828406	T204
+lack of appetite	C0003123	T047
+sciatica	C0036396	T184
+stomach gas	C0541976	T184
+demerol	C0935966	T109
+demerol	C0935966	T121
+flu symptoms	C0948873	T047
+Endometriosis	C0014175	T047
+sun sensitivity	C0349506	T046T
+HEAR DISEASE	C0018799	T047
+pain	C0030193	T184
+bad balance	C0234964	T033
+Stomach pain	C1963242	T033
+INSULIN	C3714501	T121
+INSULIN	C3714501	T125
+tingling of feet	C2116331	T184
+diverticulitis	C0012813	T047
+hair loss	C0002170	T047
+Difficulty sleeping	C0235162	T184
+Loss of energy	C0015672	T184
+malaise	C0231218	T184T
+ight chest	C0232292	T184
+trigeminal neuralgia	C0040997	T047
+Dizziness	C0012833	T184
+Difficulty swallowing	C0011168	T047
+Naprosyn	C0700017	T109
+Naprosyn	C0700017	T121
+chronic diarrhea	C0401151	T047
+exhausted	C0392674	T184
+pravastatin	C0085542	T109
+pravastatin	C0085542	T121T
+ANXIEY	C0003467	T048
+liver disease	C2186532	T033
+Loss of memory	C0751295	T184
+labor pain	C0474368	T184
+atorvastatin	C0286651	T109
+atorvastatin	C0286651	T1213
+B	C3496266	T025
+Muscle tightness	C0877322	T047
+sleep disturbance	C0700201	T047
+Fish oil	C0016157	T109
+Fish oil	C0016157	T121
+Malt	C1442914	T129
+Stuttering	C0038506	T048
+kidney problems	C0812426	T184
+naproxen sodium	C0546873	T109
+naproxen sodium	C0546873	T121
+edema	C0013604	T033
+Rheumatoid Arthritis	C0003873	T047
+cluster headaches	C0009088	T047
+panic attacks	C0086769	T048
+shingles	C0019360	T047
+gestonorone	C1273028	T109
+gestonorone	C1273028	T121
+gestonorone	C1273028	T125
+Peripheral Neuropathy	C0031117	T047
+hyperactive	C0424295	T048
+seroquel	C0287163	T109
+seroquel	C0287163	T121
+dry mouth	C0043352	T047
+prostate cancer	C0376358	T191
+excessive sleep	C0917799	T047T
+IREDNESS	C0015672	T184
+Restless Leg Syndrome	C0035258	T047
+severe muscle pain	C3862404	T184
+tremor	C0040822	T184
+Gas	C1704673	T122
+heel pain	C0231780	T184
+Stomach ache	C0221512	T184
+anemia	C0002871	T047
+Paracetamol	C0000970	T109
+Paracetamol	C0000970	T121
+lack of libido	C2981158	T033
+aortic aneurysm	C0003486	T047
+INSOMNIA	C0917801	T184
+subdural hematoma	C0018946	T046
+RX	C1425688	T028T
+ZEA	C3889400	T028
+syncope	C0039070	T184
+Niacin	C1142562	T059
+Nightmares	C3887605	T048
+bone cancer	C0585442	T191
+Elevated blood pressure	C0020538	T047
+sleepy	C0013144	T033
+calf pains	C0236040	T184
+gum infections	C0744403	T047
+Pain	C0006138	T168
+Baycol	C0718827	T109
+Baycol	C0718827	T121
+frozen shoulder	C0311223	T047
+weak	C3714552	T184
+Short term memory loss	C0701811	T048
+acute pain	C0184567	T184
+muscle inflammation	C0027121	T047
+week	C1561540	T170
+sore back	C0863105	T184
+suicidal thoughts	C0424000	T033
+weight increase	C0043094	T033
+hypersensitivities	C0020517	T046
+MSM	C2827413	T098
+cramp	C0026821	T184
+hip joint pain	C0019559	T184
+torn meniscus	C0238218	T033
+Hypochondria	C0020604	T048
+Burning	C0175627	T080
+Numbness	C0020580	T033
+Myocardial Infarction	C0027051	T047
+bone marrow biopsy	C0005954	T060
+aching	C0234238	T184
+stomach upsets	C0235309	T184
+CRPS	C0458219	T047
+lethargy	C0023380	T184
+fatty liver	C0015695	T047
+itch	C0033774	T184
+polio	C0032371	T047
+ED	C0013622	T185
+depression	C0011581	T048
+C	C0439259	T081
+emphysema	C0013990	T046
+hand surgery	C0187067	T061
+high	C3887512	T078
+mucus	C0026727	T031
+conjunctivitis	C0009763	T047
+MS	C0026769	T047
+crying	C0010399	T055
+flash	C0181637	T074
+Voracious appetite	C0020505	T033
+emotional stability	C0237105	T041
+breathing problem	C1260922	T033
+chronic headaches	C0151293	T047
+fever	C0015967	T033
+excessive saliva	C0037036	T047
+high	C0205250	T080T
+OC	C2709201	T170
+recovering alcoholic	C2242867	T033
+IC	C0021358	T023
+RA	C4048756	T023
+asperger syndrome	C0236792	T048
+MS	C0026514	T083
+Arnold Chiari Malformation	C0003803	T019T
+AL	C1266129	T191
+heart problems	C0795691	T184
+social anxiety	C0424166	T048
+Anxiety	C0860603	T033
+bad dreams	C0857051	T184
+nauseated	C0027497	T184
+HBP	C1415507	T028
+joint pain	C0003862	T184
+loose stools	C2129214	T184
+lupus	C0024141	T047
+cramps	C0026821	T184
+stroke	C0038454	T047
+BP lowered	C0020649	T033
+feeling anxious	C0003467	T048
+ulcer	C0041582	T047
+COPD	C0024117	T047
+chest cold	C0149725	T047
+lumbar pain	C0024031	T184
+phlegm	C0225378	T031
+stress disorder	C0038441	T048
+throwing up	C0042963	T184
+C	C1720692	T170
+swelling	C0038999	T033
+leg muscle cramps	C0023218	T184
+nasal congestion	C0027424	T184
+fatigue	C0015672	T184
+IC	C1550740	T079
+Bloating	C1291077	T184
+muscle damage	C0410158	T020
+heart	C0018787	T023
+flatulence	C0016204	T184
+hacking cough	C0239133	T033
+constipated	C0009806	T184
+mucous diarrhea	C0242002	T184
+gum disease	C2186527	T033
+IC	C0282488	T047
+ED	C1547353	T078
+drainage	C2926602	T031
+BP	C0037623	T083
+muscle weakness	C0151786	T184
+weakness	C3714552	T184
+muscle aches	C0231528	T184
+ADD	C0002860	T109
+ADD	C0002860	T121
+ADD	C0002860	T125
+ill	C0231218	T184
+weight loss	C1262477	T033
+anxiety attack	C0700031	T048
+gum disease	C0017563	T047
+sleeping	C0424522	T033
+RA	C0002893	T047
+Weight loss	C2911645	T046
+spasm	C0037763	T184
+lightheaded	C0220870	T184
+numbness	C0028643	T184
+head pains	C0018681	T184
+chest pain	C0008031	T184
+infection	C3714514	T046
+HBP	C1420085	T028
+restlessness	C3887611	T184
+URI	C3272713	T028
+MS	C0439223	T079
+severe back pain	C0238740	T184
+neuropathy	C0442874	T047
+DIARRHEA	C0011991	T184
+unsteady	C0439829	T080
+dependent	C3244310	T169
+abdomen	C0449202	T170
+respiratory infection	C0035243	T047
+vomit	C0042963	T184
+Nausea	C0027497	T184
+frightening	C0015726	T041
+REM	C0560134	T081
+appetite suppressant	C0003620	T121
+mild depression	C0588006	T048
+Dercum's Disease	C0001529	T047
+depression with anxiety	C0338908	T048
+confusion	C0009676	T048
+Neuropathy	C0442874	T047
+Pain relief	C0451615	T061
+C	C1998602	T056
+ADD	C0004269	T047
+amnesia	C0002622	T048
+MS	C0183396	T074
+anxiety attacks	C0700031	T048
+FM	C0750524	T078
+abscessed tooth	C0518988	T047
+gastric bypass	C0017125	T061
+numbness	C0020580	T033
+nauseous	C0027497	T184
+multiple sclerosis	C1417325	T028T
+AL	C0001899	T116T
+AL	C0001899	T126
+brain function	C0678908	T042
+hdls	C0023821	T116
+hdls	C0023821	T123
+concussions	C0006107	T037
+chemical imbalance	C2986602	T033
+body pain	C0741585	T184
+hip pain	C0019559	T184
+giddy	C0392701	T184
+gas	C0596601	T184
+sinus pain	C0522251	T184
+breathing problems	C1260922	T033
+Panic Disorder	C0030319	T048
+diabetes	C0011849	T047
+painful	C0030193	T184
+lost weight	C1262477	T033
+pneumonia	C0032285	T047
+C	C0227087	T023
+illness	C0221423	T184
+PMR	C3496570	T023
+vomited	C0042963	T184
+choking sensation	C0546947	T184
+flash	C0262485	T060
+stressful	C0231297	T169
+sleepiness	C0013144	T033
+nervous	C0027769	T184
+panic attack	C0086769	T048
+Plantar Fasciitis	C0149756	T047
+Anxiety	C0003469	T048
+hallucinating	C0018524	T048
+Constipation	C1963087	T033
+back pain	C0004604	T184
+BPD	C0552399	T201
+anthrax	C0004589	T007
+major depression	C1269683	T048
+root canal	C0086881	T030
+sprained wrist	C0160063	T037
+irritability	C0022107	T033
+High blood pressure	C0020538	T047
+C	C2985367	T028T
+OC	C1418193	T028
+tooth extractions	C0040440	T061
+yawning	C0043387	T033
+Pain	C1549543	T169
+Interstitial Cystitis	C0282488	T047
+swallowing	C0740170	T033
+feeling bad	C0231218	T184
+Agoraphobia	C0001818	T048
+liver damage	C0151763	T046
+sensitivity	C1511883	T081
+drowsy	C0013144	T033
+mucous	C0026727	T031
+Fatigue	C0015672	T184
+IC	C0151744	T047
+sexual dysfunction	C0549622	T047
+severe pain	C0278140	T033T
+raumatic Brain Injury	C0876926	T037
+absent	C0332197	T169
+tired	C0557875	T184
+autoimmune disease	C0004364	T047
+insomnia	C0917801	T184
+fatigued	C0015672	T184
+acid reflux	C0017168	T047
+liver disorders	C0023895	T047
+ADHD	C1263846	T048
+hot	C0444519	T080
+diabetic neuropathy	C0011882	T047
+pains	C0030193	T184
+uti	C0042029	T047
+hallucinated	C0018524	T048
+social	C0728831	T169T
+HAND SIFFNESS	C0239840	T033
+dry	C0205222	T080
+nausea	C0027497	T184
+butterflies	C0006496	T204
+pain clinic	C0242936	T073
+pain clinic	C0242936	T093
+BP	C1708288	T028
+restless leg syndrome	C0035258	T047
+cravings	C0870371	T055
+migraine	C0149931	T047
+obesity	C0028754	T047
+MS	C1417325	T028
+burning feet	C0231772	T184
+feeling dizzy	C0849959	T184
+ulcers	C0041582	T047
+C	C0439106	T170
+lupus	C0024138	T047
+sweats	C0038990	T033
+lose weight	C1262477	T033
+tooth infection	C0877046	T047
+sleep aid	C0718303	T109
+sleep aid	C0718303	T121
+mucus	C2753459	T031
+gastritis	C0017152	T047
+loss of appetite	C0426579	T184
+bruising	C2136686	T033
+illnesses	C0221423	T184
+PCOS	C0032460	T047
+URI	C1548524	T170
+afib	C0004238	T047
+injury	C3263723	T037
+no appetite	C0003123	T047
+soft stools	C0577115	T033
+loss of appetite	C1971624	T033
+ED	C0562508	T093
+shaking	C0040822	T184
+sinus infection	C0037199	T047
+difficulty sleeping	C0235162	T184
+anxieties	C0003467	T048
+HBP	C0020538	T047
+feeling depressed	C0497307	T184
+manic	C0338831	T048
+pharyngitis	C0031350	T047
+fear	C0015726	T041
+Ill	C0231218	T184
+dry heaves	C0232602	T184
+Difficulty reading	C0586742	T033
+unhappy	C1688635	T033
+Moon face	C0332601	T184
+ADPKD	C0085413	T019
+ADPKD	C0085413	T047
+energy	C0542479	T070
+REM	C0034673	T042
+itching	C0033774	T184
+URI	C1421895	T028
+surgery	C0543467	T058
+epileptic	C0014544	T047
+allergies	C0489531	T033
+shaky	C0392703	T033
+trach	C0749607	T061
+suicide attempt	C0038663	T033
+shoulder pain	C0423670	T184
+Anxiety	C0003467	T048
+manic	C0564408	T033
+collapsed lung	C0004144	T046
+dizzy	C0012833	T184
+recurrence	C0034897	T067
+attack	C1304680	T033
+swallowing	C0011167	T040
+cold	C0009264	T070
+COPD	C3714496	T047
+menopause	C0025320	T039
+sleeplessness	C0917801	T184
+abdominal bloating	C1291077	T184
+clammy	C0392162	T033
+headaches	C0018681	T184
+multiple sclerosis	C0026769	T047
+feeling ill	C0221423	T184
+Dizziness	C1963093	T033
+nightmares	C0028084	T184
+brain lobes	C0228179	T023
+agitation	C0085631	T184
+no appetite	C0426579	T184
+OCD	C0029421	T047
+spondylolisthesis	C2242765	T020
+Weight gain	C0043094	T033
+watery stool	C0011991	T184
+depression	C0344315	T033
+seizures	C0036572	T184
+pain free	C0908489	T109
+acute anxiety	C0741146	T048
+moodiness	C0241999	T041
+BP	C0057191	T061
+snappy	C0857221	T055
+tremors	C0040822	T184
+sleep apnea	C0037315	T047
+calm	C0522165	T041
+blurred vision	C0344232	T184
+CVA	C0038454	T047
+sensitivity	C0036667	T081
+feeling strange	C0235129	T184
+CVA	C0149887	T047
+agoraphobia	C2188188	T048
+Anxiety	C1963064	T033
+anxiety level	C0564474	T033
+MS	C0039676	T116
+MS	C0039676	T126
+major depressive disorder	C1269683	T048
+indigestion	C0013395	T184
+cough	C0010200	T184
+stress	C0038435	T033
+cancer	C0006826	T191
+chronic lower back pain	C0457949	T047
+yelling	C2128834	T184
+ADDH	C1263846	T048
+tachycardia	C0039231	T046
+ankle pain	C0238656	T184
+ADD	C0041671	T048
+jumpy	C0860604	T033
+heart attack	C0027051	T047
+Muscle pain	C1963177	T033
+IC	C0587121	T079
+allergies	C0020517	T046
+generalized anxiety	C0262376	T048
+temper tantrums	C0233558	T048
+lower back pain	C0024031	T184
+anxiety	C0860603	T033
+Light-headed	C0220870	T184
+plague	C0032064	T047
+RA	C0034571	T169
+backaches	C0004604	T184T
+SINUS INFECION	C0037199	T047
+surgery	C0038895	T169T
+AL	C2257651	T044
+diabetic	C0241863	T033
+Polycystic Ovarian Syndrome	C0032460	T047
+PMR	C4050178	T033
+MS	C0175233	T023
+night sweats	C0028081	T184
+stomach cramps	C0344375	T184
+MS	C0037813	T059
+recovering alcoholic	C0683991	T101
+infections	C3714514	T046
+knee pain	C0231749	T184
+brain damage	C0270611	T037
+stomach upset	C0235309	T184
+anger	C0002957	T041
+leg cramps	C0023218	T184
+MS	C3539704	T028
+burning	C0085624	T184
+injured	C0332664	T169
+kidney	C0022646	T023
+groin pain	C0239783	T184
+mood swings	C0085633	T048
+irritable	C0022107	T033
+sleep	C0037313	T040
+muscle cramps	C0026821	T184
+reduced sexual desire	C0011124	T184
+C	C2981683	T081
+losing weight	C1262477	T033
+arthritis	C0003864	T047
+memory loss	C0751295	T184
+leg pain	C0023222	T184
+abdomen	C1281594	T023
+ADD	C1548443	T170
+sweat	C0038990	T033
+bleeding	C0019080	T046
+runny nose	C1260880	T184
+head injury	C0018674	T037
+happy	C0018592	T041
+feeling better	C0424578	T033
+weight gain	C0043094	T033
+Polymyalgia Rheumatica	C0032533	T047
+IBS	C0022104	T047
+panic disorders	C0030319	T048
+C	C0562424	T081
+Pain	C2598155	T201
+burning	C0175627	T080
+short term	C0443303	T079
+Bipolar	C0443156	T082
+light headedness	C0220870	T184
+agoraphobia	C0001818	T048
+abdomen	C0230168	T029
+C	C0009170	T109
+C	C0009170	T131
+frequent urination	C0042023	T033
+focus	C1285542	T169
+communication issues	C0681295	T170
+ulcerative colitis	C0009324	T047
+death	C1306577	T033
+cloudy vision	C0344232	T184
+Severe pain	C0278140	T033
+gain weight	C3502817	T170
+C	C0007404	T109
+C	C0007404	T121
+high blood pressure	C0020538	T047
+URI	C0041912	T047TTTT
+POS RAUMAIC SRESS DISORDER	C0038436	T048
+fatigue	C2024893	T033
+PAIN	C1557397	T033
+disorder	C0012634	T047
+surgery	C1457907	T033
+BP	C2986841	T067
+IC	C2986898	T170
+heart surgery	C0018821	T061
+light headed	C0220870	T184
+aches	C0234238	T184
+anxious	C0003467	T048
+dizziness	C0042571	T184
+able to breath	C0566270	T033
+drainage	C0012621	T031
+calming	C0522165	T041
+bronchitis	C0006277	T047
+Endometriosis	C0014175	T047
+upper respiratory infection	C0041912	T047
+spaced out	C0857507	T033
+memory loss	C0002622	T048
+attacks	C1261512	T054
+agitated	C0085631	T184
+cracked tooth	C0010261	T033
+chronic neck pain	C0746815	T033
+cancer	C0260515	T033
+not feeling well	C0231218	T184
+irritable bowel syndrome	C0022104	T047
+spondylolisthesis	C0038016	T047
+chest congestion	C0242073	T047
+OCD	C0028768	T048
+angry	C0002957	T041
+Muscle aches	C0231528	T184
+urinary urgency	C0085606	T047
+feeling ill	C0231218	T184
+deep breath	C1321587	T184
+allergic reactions	C0020517	T046
+loss of appetite	C0003123	T047
+cranial neuralgia	C0010269	T047
+Wide awake	C0234422	T033
+screaming	C0521008	T055
+cold sweat	C0232431	T184
+restless	C0085631	T184
+mastectomy	C0024881	T061
+vomiting	C0042963	T184
+sleeping	C0037313	T040
+MS	C1417453	T028
+hands shake	C0857072	T184
+Weight gain	C2911647	T033
+mental disorder	C0004936	T048
+staph infection	C0038160	T047
+productive cough	C0239134	T184
+asthma	C0004096	T047
+exhaustion	C0392674	T184
+watery stool	C2129214	T184
+mucous	C2753459	T031
+flu like symptoms	C0392171	T184
+MS	C1868685	T033
+bowel movements	C0011135	T040
+BP	C0005823	T040
+heartburn	C0018834	T184
+diabetes	C0011860	T047
+IC	C1522475	T169
+relaxed	C0542193	T080
+airway obstruction	C0001883	T047
+abdomen	C0000726	T029
+dental surgery	C0204324	T061
+parasomnia	C0030508	T047
+Coughing	C0010200	T184
+Dizzy	C0012833	T184
+infection	C0009450	T047
+FM	C3540627	T028
+gaining weight	C0231246	T033
+ADDH	C2676243	T047
+panic	C0030318	T033
+comatose	C0009421	T047
+confused	C0009676	T048
+tooth extraction	C0040440	T061
+Anxiety	C4050613	T170
+migraines	C0149931	T047
+slipped disk	C0242362	T020
+discomfort	C2364135	T184
+disoriented	C0233407	T048
+back injury	C0004601	T037
+loss of balance	C0241981	T033
+sciatica	C0036396	T184
+Pain	C0242936	T073
+Pain	C0242936	T093
+gerd	C0017168	T047
+degenerative disc disease	C0158266	T047
+euphoria	C0235146	T041
+feeling bad	C0857027	T184
+severe depression	C0588008	T048
+acne	C0001144	T047
+manic episode	C0349208	T048T
+Essential remors	C0270736	T047
+pain relief	C0451615	T061
+stomach pain	C0221512	T184
+foot cramps	C0178422	T184
+hallucinations	C0018524	T048TTT
+HEAR AACK	C0027051	T047
+low sodium	C0012169	T061
+BPD	C0146403	T109
+BPD	C0146403	T131
+DEPRESSION	C0011570	T048
+lightheadedness	C0220870	T184
+addicting	C0858354	T101
+sore throat	C0242429	T184
+IC	C0262264	T023
+hand tremors	C0239842	T033
+depression	C1579931	T184
+fluttering	C0016385	T046
+memory problems	C0233794	T048
+MS	C0026269	T047
+diarrhea	C0011991	T184
+fibromyalgia	C0016053	T047
+Psych	C0004936	T048
+MS	C0026221	T083
+depressed	C0344315	T033
+burping	C0014724	T184
+PCOS	C1514508	T062
+headache	C0018681	T184
+anxiety	C0003467	T048
+uri	C0041912	T047
+BPD	C0006012	T048
+ED	C3538926	T078
+shakiness	C0392703	T033
+persistent cough	C0562483	T184
+penicillin allergy	C0030824	T047
+nightmare	C0028084	T184
+gas	C0017110	T104
+upset stomach	C0235309	T184
+aching	C0234238	T184
+lethargic	C0023380	T184
+disorientated	C0233407	T048
+sour stomach	C0860277	T184
+dehydration	C0011175	T047
+Weight loss	C1262477	T033
+flu	C0021400	T047
+rested	C0035253	T056
+congestion	C0700148	T046
+scared	C0015726	T041
+Nervous	C0599851	T169
+C	C3715096	T033
+rapid heart beat	C0039231	T046
+rash	C0015230	T184
+HBP	C1332127	T028
+Breathing problems	C1260922	T033
+Fear	C0015726	T041
+scalp laceration	C0240937	T037
+angioedema	C0002994	T046
+sickness	C0221423	T184
+depression	C0011570	T048
+racing thoughts	C0554978	T048
+ADD	C1263846	T048
+Flu like symptoms	C0392171	T184T
+PSD	C0038436	T048
+lupus	C0409974	T047
+FM	C3815109	T170
+hot flashes	C0600142	T184
+blackout	C0700178	T048
+loss of taste	C2364111	T184
+feel tired	C0849970	T184
+hives	C0042109	T047
+anthrax	C0358297	T121
+anthrax	C0358297	T129
+lupus	C0024131	T047
+short term memory	C0025265	T041
+emphysema	C0034067	T047
+HBP	C0054878	T116
+HBP	C0054878	T123
+leg pain	C0839480	T184
+dream	C0013117	T041
+attack	C1261512	T054
+bronchitis	C0149514	T047
+feeling tired	C0849970	T184
+psych	C1306597	T048
+parasomnia	C0851578	T047
+COPD	C1647218	T121
+attacks	C1304680	T033
+chills	C0085593	T184
+flushing	C0016382	T184
+bruising	C0009938	T037
+dry	C1550582	T068
+Voracious appetite	C0426584	T033
+no pain	C0234225	T033
+low sodium	C0860871	T033
+spinal arthritis	C0949690	T047
+sweating	C0038990	T033
+GERD	C0017168	T047
+abdominal pain	C0000737	T184
+nasal congestion	C2136984	T046
+muscle ache	C0231528	T184
+drowsiness	C0013144	T033
+recurrence	C1458156	T191
+scoliosis	C0700208	T020
+depression symptoms	C0086132	T184
+dreams	C0013117	T041
+addiction	C0085281	T048
+food poisoning	C0016479	T037
+aggravated	C0436331	T033
+swallowing	C3665547	T061
+Pain	C1882272	T033
+abdomen	C0371769	T060
+difficulty in swallowing	C0011168	T047
+bruises	C0009938	T037
+Mucus Relief	C1631659	T109
+Mucus Relief	C1631659	T121
+dysuria	C0013428	T184
+GAD	C1414925	T028
+cramping	C0026821	T184
+Nervous	C0027769	T184
+vertigo	C2096293	T033
+Vomited	C0042963	T184
+sweaty	C0232427	T169
+miserable	C0344315	T033
+kidney	C0227665	T023
+tiredness	C0015672	T184
+RA	C0003873	T047
+lack of appetite	C0003123	T047
+colitis	C0009319	T047
+throw up	C0042963	T184
+focusing	C0000936	T201
+mental disorder	C0033975	T048
+suicide	C0038661	T033
+constipation	C0009806	T184
+plague	C0032066	T121
+plague	C0032066	T129
+periodontal disease	C0031090	T047
+vertigo	C0042571	T184
+pain	C0030193	T184
+high cholesterol	C1522133	T033
+CANCER	C0006826	T191
+chronic back pain	C0740418	T184
+GAD	C0270549	T048
+Fibromyalgia	C0016053	T047
+jitteriness	C0549209	T184
+hair loss	C0002170	T047
+sore throat	C0031350	T047
+difficulty concentrating	C0947509	T041
+High blood pressure	C2926615	T201
+anthrax	C0003175	T047
+BPD	C0006287	T047
+dizzy spells	C0857087	T033
+acid	C0001128	T103
+malaise	C0231218	T184
+sleep walking	C0037672	T047
+dark urine	C0426396	T184
+cold sweats	C0232431	T184
+tachycardia	C3827868	T033
+hangovers	C0221100	T184
+increased blood pressure	C0497247	T033
+shortness of breath	C0013404	T184
+PAIN	C0030193	T184
+post polio syndrome	C0080040	T047
+Dizziness	C0012833	T184
+gain weight	C0043094	T033
+BP	C0005824	T058
+chronic knee pain	C0745571	T047
+light-headed	C0220870	T184
+restlessness	C0085631	T184
+laryngitis	C0023067	T047
+head pain	C0018681	T184
+panic disorder	C0030319	T048
+clumsiness	C0233844	T184TT
+PANIC AACKS	C0086769	T048
+exhausted	C0392674	T184
+cold sores	C0019345	T047
+tired all the time	C0015672	T184
+SLEEP WALKING	C0037672	T047
+blackout	C0312422	T184
+loss of energy	C0015672	T184
+HBP	C1424798	T028T
+AL	C0376147	T116T
+AL	C0376147	T126T
+AL	C0201836	T059
+IC	C0020750	T083
+RLS	C0035258	T047
+infected	C0439663	T033
+suicide	C0812393	T048
+edema	C0013604	T033
+migraine headaches	C0149931	T047T
+OC	C0013231	T121
+Constipation	C0009806	T184
+palpitations	C0030252	T033
+panic attacks	C0086769	T048
+shoulder pain	C0037011	T184
+MS	C1881819	T078
+allergic reaction	C0020517	T046
+fidget	C0424235	T033
+C	C0439237	T081
+clinical depression	C2362914	T048
+cold	C0234192	T039
+queasy	C0027497	T184
+acne	C0702166	T047
+sex drive	C0023618	T041
+groggy	C0541992	T033
+IC	C0802663	T201
+finger numbness	C0587054	T184
+MS	C1513009	T170
+depression	C0812393	T048
+craving sweets	C0241314	T033
+Dehydration	C0011175	T047
+Cough Relief	C2608373	T121
+relax	C0542193	T080
+gingivitis	C0017574	T047
+FM	C0282244	T083
+Restless Leg Syndrome	C0035258	T047
+eye pain	C0151827	T184
+chronic pain	C0150055	T184
+anxiousness	C0003467	T048
+alcoholic	C0687725	T101
+gained weight	C0043094	T033
+Muscle pain	C0231528	T184
+tingling	C2242996	T184
+PMR	C0032533	T047
+cold	C0009443	T047
+Nausea	C1963179	T046
+sweat	C0038984	T031
+short term memory loss	C0701811	T048
+dependent	C0851827	T080
+pressure	C0460139	T033
+chronic coughing	C0010201	T184
+ED	C0242350	T047
+viral infection	C0042769	T047
+loose bowels	C2129214	T184T
+AL	C1140170	T170
+scoliosis	C0036439	T190
+Bronchitis	C0006277	T047
+addictions	C0085281	T048
+vomit	C0042965	T031
+headache	C2096315	T033
+rapid heart rate	C0039231	T046
+subdural hematoma	C0018946	T046
+salivary gland infection	C0392318	T047
+cold symptoms	C0863093	T047
+stomach problems	C2186536	T033
+C	C0312905	T116
+C	C0312905	T129
+ticks	C0040203	T204
+allergic	C0700624	T169
+Pain	C0030193	T184
+root canal	C0035849	T061
+dizziness	C0012833	T184
+CVA	C0054889	T061
+sleepy	C0013144	T033
+kidney pain	C0558489	T184
+Pain	C0006138	T168
+body odor	C0085595	T033
+double vision	C0012569	T033
+energy	C0424589	T033
+nausea/vomiting	C0027498	T184
+lose weight	C2242973	T061
+fever	C0424755	T033
+weak	C3714552	T184
+low back pain	C0024031	T184
+dry cough	C0850149	T184
+Dehydration	C1963090	T033
+high potassium	C0856882	T033
+coughing	C0010200	T184
+hangovers	C0393756	T184
+acute pain	C0184567	T184
+blurry vision	C0344232	T184
+talking while asleep	C2054221	T184
+death	C0011065	T040
+night terrors	C0037320	T048
+IC	C0021610	T032T
+IRED	C0557875	T184
+pain control	C1304888	T061
+extreme fatigue	C0015672	T184
+symptoms of depression	C0086132	T184
+NAUSEA	C0027497	T184
+freezing	C0016701	T070
+nerve pain	C0751372	T184
+suicidal thoughts	C0424000	T033
+BP	C1704305	T201
+anxiety disorders	C0003469	T048
+bruise easily	C0423798	T033
+Heartburn	C0018834	T184
+back aches	C0004604	T184
+gain weight	C2243085	T058
+muscle pain	C0231528	T184
+hopelessness	C0150041	T048
+bloody stools	C0018932	T033
+feel swollen	C0423601	T033
+MS	C0025867	T081
+IBS	C0432306	T019
+hyper	C0424295	T048
+Crying	C0010399	T055
+frequent headaches	C0948396	T184
+dry mouth	C0043352	T047
+withdrawal symptoms	C0087169	T184
+knee surgery	C0187769	T061
+addicted	C0858354	T101
+leg cramp	C0023218	T184
+kidney disease	C0022658	T047
+muscle weakness	C0030552	T184
+Fatigue	C4050243	T170
+C	C2950656	T029
+severe vertigo	C0522365	T184
+periodontal disease	C0017563	T047
+Pneumonia	C0032285	T047
