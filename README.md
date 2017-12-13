@@ -1,4 +1,4 @@
-# adr_classification
+# Adverse drug reaction classification
 This repository contains the source code for the paper Alimova I., Tutubalina E. Automated detection of adverse drug reactions from social media posts with machine learning //Proceedings of international conference on analysis of images, social networks and texts. – 2017.
 
 # Corpora
